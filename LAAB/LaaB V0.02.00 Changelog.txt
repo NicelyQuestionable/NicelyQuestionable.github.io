@@ -1,0 +1,51 @@
+LaaB V0.02.00 “Equipment & Character System Overhaul
+
+Equipment System Overhaul:
+The Equipment System has been rebuilt from the ground up to be a more proper equipment and inventory system. The following major features are now supported:
+	-The player has an “Inventory” where they can store clothes.
+	-They can change clothes from their inventory at certain locations, such as public restrooms.
+	-Multiple copies of the same Clothing Item are now tracked separately. This allow for individual stat tracking.
+	-Clothes now have Durability, Weight, and Item Descriptions.
+	-Clothing items now have traits that affect certain situations.
+	-The player can move clothing from their closet to their inventory and back.
+	-You can view your inventory via the Sidebar.
+	-New Clothing Slots: Head, Mouth, Neck, Under, Over, Back, Hands, and Waist.
+
+Closet Overhaul:
+The closet has been recreated to better fit the new equipment system.
+
+Character Creation Overhaul:
+Character Creation has been rebuilt with the following new additions:
+	-Traits [Currently Disabled] will allow you to further customize your character.
+	-Whether or not your character is adopted.
+	-Whether or not your character wets the bed.
+	-Your characters fears.
+	-Family Nicknames for your character.
+
+Mood System Overhaul:
+The Mood System is still currently in the middle of its overhaul and will be expanded in the near future. Currently, it has the following features:
+	-A new ‘Fun Need’.
+	-An optional ‘Bladder Need’.
+
+Need Failures:
+Your PC can now pass out due to lack of energy. There are 3 test events in the 3 base locations. Home, School, and Town. More coming soon!
+If Bladder is enabled, your PC can also wet themselves. Currently has a single test event.
+
+Uniforms:
+The school now has optional Uniforms. If enabled, be sure to wear at least your uniform top and bottoms! NPCs each have their own unique uniform as well! More uniform pieces will be available to buy soon!
+
+Bedroom Mirror:
+The Mirror in the Player’s Bedroom now acts as a sort of “Avatar Poser”.
+
+Temporary Disables:
+The following features are disabled until the near future due to conflicts with the new systems:
+	-Masturbation (Pending it’s own Overhaul)
+	-The ability to Customize Noah’s Clothing.
+	-Certain Clothing is now currently buyable, pending conversion in the near future.
+
+Changes:
+	-Moodlets are being renamed to Stressors.
+	-Moodlets related to "Fun" Activities have been removed due to the new Need.
+	-Due to the complexity of new variables, History has been reduced to 5 to prevent lag.
+	-Certain NPC stats no longer tracked pending Journal Overhaul.
+	-Cheats can no longer be turned off after they have been turned on on a save.
